@@ -77,10 +77,10 @@ body{
 }
 
 #icons{
-    padding-inline: 4.5rem;
+    /*padding-inline: 4.5rem;*/
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     margin-top: 6.8rem;
     
